@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1670858814465,7579,getListOfUser,200,OK,Thread Group 1-1,text,true,,1714,175,5,5,https://reqres.in/api/users?page=1,7570,0,7409
+1670858814469,7934,getListOfUser,200,OK,Thread Group 1-2,text,true,,1712,175,5,5,https://reqres.in/api/users?page=1,7934,0,7856
+1670858822371,106,getListOfUser from variable,200,OK,Thread Group 1-1,text,true,,1747,175,5,5,https://reqres.in/api/users?page=2,105,0,0
+1670858822411,96,getListOfUser from variable,200,OK,Thread Group 1-2,text,true,,1755,175,4,4,https://reqres.in/api/users?page=2,96,0,0
+1670858815636,7528,getListOfUser,200,OK,Thread Group 1-5,text,true,,1714,175,3,3,https://reqres.in/api/users?page=1,7528,0,7446
+1670858814813,8360,getListOfUser,200,OK,Thread Group 1-3,text,true,,1706,175,3,3,https://reqres.in/api/users?page=1,8359,0,8269
+1670858823186,108,getListOfUser from variable,200,OK,Thread Group 1-3,text,true,,1753,175,3,3,https://reqres.in/api/users?page=2,108,0,0
+1670858823179,132,getListOfUser from variable,200,OK,Thread Group 1-5,text,true,,1751,175,2,2,https://reqres.in/api/users?page=2,131,0,0
+1670858815203,8491,getListOfUser,200,OK,Thread Group 1-4,text,true,,1718,175,1,1,https://reqres.in/api/users?page=1,8491,0,8396
+1670858823707,101,getListOfUser from variable,200,OK,Thread Group 1-4,text,true,,1751,175,1,1,https://reqres.in/api/users?page=2,101,0,0
