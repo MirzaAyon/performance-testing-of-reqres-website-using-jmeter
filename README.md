@@ -37,6 +37,7 @@ I’ve completed performance test on frequently used API for [reqres](https://re
 - Avg TPS for Total Samples - 
 - Total Concurrent API requested - 10
 - Average time - 4043.50 milliseconds
+- error rate is 0%
 ### Live site of the report
 
 https://visionary-druid-41f410.netlify.app/
